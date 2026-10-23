@@ -1,0 +1,1 @@
+{"entry": "index.js", "hooks": ["task.implementation_finished"], "grants": ["edit-task", "comment-task"]}
